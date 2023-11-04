@@ -11,4 +11,4 @@
 # apt install conntrack
 # minikube start --vm-driver=none    (if not worked then use next)
 # minikube start --driver=docker --force  
-# minikue status
+# minikube status
